@@ -4,7 +4,7 @@
 
 A responsive cryptocurrency tracker built with **React**, **Redux Toolkit**, and **Vite**, simulating real-time price updates via a mocked WebSocket. Inspired by platforms like CoinMarketCap.
 
-![demo-gif](link-to-your-demo-gif-or-video)
+
 
 ---
 
