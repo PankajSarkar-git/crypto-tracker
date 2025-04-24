@@ -93,9 +93,7 @@ cryptoProject/
 
 ## 🎥 Demo Video
 
-👉 [Watch on YouTube](https://your-demo-link.com)  
-_(Include a 2–5 minute walkthrough explaining your thought process.)_
-
+👉 
 ---
 
 ## 🌟 Bonus Features (Optional Implemented)
